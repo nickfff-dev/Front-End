@@ -1,0 +1,11 @@
+div[size="A4"]{
+    width: 21cm;
+  height: 29.7cm; 
+}
+
+
+.bar{
+    height: 10px;
+    width: 15cm;
+    background-color: hsl(236, 89%, 51%);
+}
