@@ -12,6 +12,11 @@ import { CreateCompanyAccountStp2Component } from './create-company-account-stp2
 import { AgreeToTermsComponent } from './agree-to-terms/agree-to-terms.component';
 import { SignupCompleteComponent } from './signup-complete/signup-complete.component';
 
+
+
+
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -31,4 +36,10 @@ import { SignupCompleteComponent } from './signup-complete/signup-complete.compo
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule { 
+
+  constructor() {
+
+  }
+
+}
